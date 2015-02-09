@@ -1,7 +1,7 @@
 
 
-c/c++
+#c/c++
 
-heap sort 
-kruskal algorithm
-binomial heap
+#heap sort 
+#kruskal algorithm
+#binomial heap
