@@ -1,0 +1,15 @@
+x 4 x x x -5 x x x x x x 8 x x
+4 x x 0 20 123 x 12 x x x x 60 x x
+x x x 0 x 0 0 x x x x x 0 x x
+x 0 0 x 15 x 50 x x x x x 19 10 x
+x 20 x 15 x x x 9 x x x x x 0 x
+-5 123 0 x x x 0 x x x x -7 100 x x
+x x 0 50 x 0 x x x x x 0 x 777 7
+x 12 x x 9 x x x 66 2 x x x 87 x
+x x x x x x x 66 x 66 x x x 100 -10
+x x x x x x x 2 66 x 7 -1 x x 3
+x x x x x x x x x 7 x 0 x x 9
+x x x x x -7 0 x x -1 0 x x x 0
+8 60 0 19 x 100 x x x x x x x x x
+x x x 10 0 x 777 87 100 x x x x x 7
+x x x x x x 7 x -10 3 9 0 x 7 x
